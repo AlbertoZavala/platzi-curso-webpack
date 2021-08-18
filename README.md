@@ -1,1 +1,1 @@
-# platzi-curso-webpack
+# curso-webpack-react
